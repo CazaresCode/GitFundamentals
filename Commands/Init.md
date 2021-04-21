@@ -10,7 +10,7 @@ git init
 ```
 
 Once inside a git repository, you can start using commands such as 
-[stauts](./Status.md),
+[status](./Status.md),
 [add](./Add.md),
 [commit](./Commit.md),
 [push](./Push.md),
@@ -20,7 +20,7 @@ Init will create the repository in the current directoruy and will encapsulate a
 
 ## Resources
 
-- [Git Init Documentation](https://git-scm.com.docs/git-init)
+- [Git Init Documentation](https://git-scm.com/docs/git-init)
 
 ---
 

@@ -11,6 +11,7 @@ Items that have not been "tracked" before will start to be tracked and all other
  You can specify tracking directories with `git add DirectoryName`.
 
  ## Resources 
+ 
  - [Git Add Documentation](https://git-scm.com/docs/git-add)
  
  ---
