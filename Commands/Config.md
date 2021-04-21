@@ -9,10 +9,11 @@ git config --global user.name "Arnold Shortman"
 git config --global user.email arnoldshortman202@gmail.com
 ```
 
-For more information, view the [first time git setup] (https://git-scm.com/book/en/v2/Getting-Started-First-Time-Setup) documentation. 
+For more information, view the [first time git setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Setup) documentation. 
 
 ## Resources 
-- [Git Config Documentation] (https://git-scm.com/docs/git-config
+
+- [Git Config Documentation](https://git-scm.com/docs/git-config
 )
 
 ---
